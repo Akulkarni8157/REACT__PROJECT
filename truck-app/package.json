@@ -14,9 +14,9 @@
   },
   "scripts": {
     "dev": "react-scripts start && SET PORT=2150",
-    "prod": "react-scripts start && SET PORT=1800",
+    "prod": "react-scripts start && SET PORT=3500",
     "build": "react-scripts build",
-    "test": "react-scripts test && SET PORT=1460",
+    "test": "react-scripts test && SET PORT=6767",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
