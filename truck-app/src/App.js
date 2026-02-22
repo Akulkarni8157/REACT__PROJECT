@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <h1>Truck App</h1>
       </header>
     </div>
   );
